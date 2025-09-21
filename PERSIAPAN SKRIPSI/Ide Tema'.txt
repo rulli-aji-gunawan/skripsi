@@ -1,0 +1,10 @@
+> Sistem Cerdas Pembuatan Production Schedule
+> Prediksi jumlah penduduk berdasarkan Gender tahun 202x
+> System pendeteksi jenis sampah
+> Prediksi kepadatan penduduk
+> Prediksi Jumlah lahan kosong di Indonesia tahun 202x
+> Prediksi Kebutuhan dan ketersediaan pangan hingga tahun 202x
+> Grading rumah tinggal berdasarkan lokasi
+> Prediksi hasil pertandingan berdasarkan susunan pemain, formasi, lawan, dll.
+> Warning system untuk pengendara terkait potensi kecelakaan lalu lintas dengan metode warning light yang terhububg dengan smartphone
+
